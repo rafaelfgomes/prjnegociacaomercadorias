@@ -1,0 +1,68 @@
+a{
+	text-decoration: none;
+}
+
+body{
+	font-family: "arial", "verdana", "sans-serif";
+	background-color: #DCDCDC;
+	background-image: url(../images/fundo.png);
+	background-repeat: repeat;
+}
+
+h1{
+	background-image: url(../images/bg.gif);
+	background-repeat: repeat;
+	color: white;
+	font-weight: bolder;
+	margin-right: 5%;
+	margin-left: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: center;
+}
+
+.botao{
+	background-color: #001;
+	color: white;
+	font-weight: bold;
+}
+
+.parag{
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.texto_saudacao{
+	font-size: 1.2em;
+	text-align: justify;
+}
+
+#div_principal{
+	border: 1px black solid;
+}
+
+#espaco{
+	margin-left: 8%;
+	margin-right: 8%;
+}
+
+#rodape{
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+}
+
+#tabela_mercadorias{
+	font-size: 12px;
+	border: 1px solid black;
+}
+
+#titulo_tabela{
+	padding-top: 1.2%;
+	text-align: center;
+}
+
+#div_botao, #cadastro, #txt_codigo_mercadoria,
+#txt_preco_mercadoria {
+	text-align: center;
+}
